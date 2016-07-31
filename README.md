@@ -1,2 +1,2 @@
 # withhebing.github.io
-trying to create a websites on github pages
+trying to generate a static websites through github pages
